@@ -19,7 +19,7 @@ Whitelist+ is a whitelist plugin for Minecraft servers, designed to provide effe
 
 ### RomsManager
 
-RomsManager is centralized platform where users can conveniently download ROMs while also providing a JSON API for developers to access essential data such as game names, download links, and consoles supported by the hosted games. - check out [RomsManager](https://quantumcoderyt.github.io/romsManager/webversion/) on the main page!
+RomsManager is centralized platform where users can conveniently download ROMs while also providing a JSON API for developers to access essential data such as game names, download links, and consoles supported by the hosted games. - check out [RomsManager](https://quantumcoderyt.github.io/RomsManager/webversion/) on the main page!
 
 ## Collaboration
 
