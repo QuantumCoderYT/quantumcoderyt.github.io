@@ -17,10 +17,6 @@ Welcome to my GitHub profile! I'm a developer passionate about Java and speciali
 
 Whitelist+ is a whitelist plugin for Minecraft servers, designed to provide effective and easy-to-use access control - check out [Whitelist+](https://www.spigotmc.org/resources/whitelist.103636/) on the SpigotMC page!
 
-### RomsManager
-
-RomsManager is centralized platform where users can conveniently download ROMs while also providing a JSON API for developers to access essential data such as game names, download links, and consoles supported by the hosted games. - check out [RomsManager](https://quantumcoderyt.github.io/RomsManager/webversion/) on the main page!
-
 ## Collaboration
 
 I am open to receive contributions on my projects, as well as to collaborate on interesting Minecraft related projects. If you have any ideas or proposals, feel free to contact me!
